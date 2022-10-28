@@ -1,0 +1,10 @@
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\bin\Debug\DISTR_BLE.exe.config
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\bin\Debug\DISTR_BLE.exe
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\bin\Debug\DISTR_BLE.pdb
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\obj\Debug\DISTR_BLE.csproj.AssemblyReference.cache
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\obj\Debug\DISTR_BLE.Properties.Resources.resources
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\obj\Debug\DISTR_BLE.csproj.GenerateResource.cache
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\obj\Debug\DISTR_BLE.csproj.CoreCompileInputs.cache
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\obj\Debug\DISTR_BLE.exe
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\obj\Debug\DISTR_BLE.pdb
+C:\Users\john0510\source\repos\DISTR_BLE\DISTR_BLE\obj\Debug\DISTR_BLE.FrmBle.resources
